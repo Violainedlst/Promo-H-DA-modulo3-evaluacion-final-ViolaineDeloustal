@@ -15,10 +15,10 @@ Este ejercicio final del Módulo 3 consiste en realizar un análisis de datos so
 #### Fase 1:
 - Exploración Inicial
 - Limpieza de datos
-- 
+
 #### Fase 2:
 - Visualización
-- 
+
 #### Fase 3:
 - Preparación de datos
 - Análisis descriptivo
